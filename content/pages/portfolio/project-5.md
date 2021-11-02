@@ -1,14 +1,14 @@
 ---
-title: Nature Magazine
-subtitle: Editorial Design
+title: Integrating on-premises active directory with AWS
+subtitle: Hybrid active directory
 date: '2021-01-10'
 thumb_image: images/work-magazine-1-thumb.jpg
-thumb_image_alt: Nature Magazine preview
+thumb_image_alt: Hybrid active directory
 sections:
   - type: image_section
     image: images/work-magazine-1.jpg
     image_alt: Nature Magazine 1
-    caption: This is the caption of the image
+    caption: Hybrid active directory
     width: wide
   - type: text_section
     content: >-

@@ -1,14 +1,14 @@
 ---
-title: Design Is One
-subtitle: Print
+title: PetMe Serverless Application
+subtitle: Serverless
 date: '2020-02-10'
 thumb_image: images/work-poster-1-thumb.jpg
-thumb_image_alt: Design Is One preview
+thumb_image_alt: PetMe serverless Application
 sections:
   - type: image_section
     image: images/work-poster-1.jpg
-    image_alt: Design Is One 1
-    caption: This is the caption of the image
+    image_alt: PetMe Application
+    caption: Architectural diagram of the PetMe serverless application
     width: wide
   - type: text_section
     content: >-

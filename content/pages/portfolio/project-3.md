@@ -1,14 +1,14 @@
 ---
-title: The Book
-subtitle: Editorial Design
+title: Systems Manager in a Hybrid Environment
+subtitle: Hybrid AWS and On-premises environment
 date: '2020-04-10'
 thumb_image: images/work-book-cover-1-thumb.jpg
-thumb_image_alt: The Book preview
+thumb_image_alt: Hybrid AWS and On-premises environment
 sections:
   - type: image_section
     image: images/work-book-cover-1.jpg
     image_alt: The Book 1
-    caption: This is the caption of the image
+    caption: Hybrid AWS and On-premises environment
     width: wide
   - type: text_section
     content: >-

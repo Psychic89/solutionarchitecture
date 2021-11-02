@@ -7,34 +7,33 @@ sections:
     content: >-
       Let’s build something great together.<br>
 
-      Complete our contact form or send us an email at
-      [email@example.com](mailto:email@example.com).
-
+      Complete my contact form or send me an email at
+      [robert@cloudadvocate.io](mailto:robert@cloudadvocate.io).
 
       ***
 
 
-      ## Our Offices
+      ## Address
 
 
-      ### San Francisco
+      ### Germany
 
-      1234 Some St.<br>
+      Taunusstrasse 66<br>
 
-      San Francisco, CA 12345<br>
+      63067<br>
 
-      1-234-556-7890<br>
+      Offenbach am Main<br>
 
       [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
 
 
-      ### New York
+      ### Kenya
 
-      1234 Some St.<br>
+      P.O. Box 4029<br>
 
-      New York, NY 12345<br>
+      00100 12345<br>
 
-      1-234-556-7890<br>
+      Nairobi<br>
 
       [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
     form_id: contactForm
@@ -52,12 +51,12 @@ sections:
         is_required: true
       - input_type: select
         name: subject
-        label: What services are you looking for?
+        label: What are you interested in?
         default_value: Please select
         options:
-          - Branding
-          - Design
-          - Digital
+          - Solution Architecture
+          - DevOps
+          - Other
       - input_type: textarea
         name: message
         label: Message

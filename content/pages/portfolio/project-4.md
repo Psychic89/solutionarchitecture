@@ -1,14 +1,14 @@
 ---
-title: Nature Mockup Magazine
-subtitle: Editorial Design
+title: Integrating the DNS platforms of AWS and on-premises environment using Route53 endpoints.
+subtitle: Hybrid DNS
 date: '2020-05-10'
 thumb_image: images/work-book-1-thumb.jpg
-thumb_image_alt: Nature Mockup Magazine preview
+thumb_image_alt: Hybrid DNS
 sections:
   - type: image_section
     image: images/work-book-1.jpg
-    image_alt: Nature Mockup Magazine 1
-    caption: This is the caption of the image
+    image_alt: Hybrid DNS
+    caption: Hybrid DNS
     width: wide
   - type: text_section
     content: >-

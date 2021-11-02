@@ -1,13 +1,13 @@
 ---
-title: Subtle
-subtitle: Brand Development
+title: Dynamic, BGP Based, Highly-Available Site-to-Site VPN
+subtitle: Site-To-Site VPN
 date: '2021-02-06'
 thumb_image: images/work-photography-magazine-1-thumb.jpg
-thumb_image_alt: Subtle preview
+thumb_image_alt: Database migration
 sections:
   - type: image_section
     image: images/work-photography-magazine-1.jpg
-    image_alt: Subtle 1
+    image_alt: Database migration
     caption: This is the caption of the image
     width: wide
   - type: text_section
