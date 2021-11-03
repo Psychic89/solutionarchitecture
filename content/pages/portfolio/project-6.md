@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/work-photography-magazine-1.jpg
     image_alt: Database migration
-    caption: This is the caption of the image
+    caption: Architecture diagram for site-to-site VPN
     width: wide
   - type: text_section
     content: >-

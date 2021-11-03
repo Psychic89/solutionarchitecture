@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/work-magazine-1.jpg
     image_alt: Nature Magazine 1
-    caption: Hybrid active directory
+    caption: Architecture diagram for a Hybrid active directory
     width: wide
   - type: text_section
     content: >-

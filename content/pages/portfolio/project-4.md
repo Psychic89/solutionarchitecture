@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: images/work-book-1.jpg
     image_alt: Hybrid DNS
-    caption: Hybrid DNS
+    caption: Architecture diagram for Hybrid DNS
     width: wide
   - type: text_section
     content: >-
